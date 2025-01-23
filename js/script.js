@@ -15,8 +15,7 @@ $(document).ready(function(){
                 $coin.addClass("isTails");
             }
 
-        }, 100);
-   
+        }, 100); 
 
     });
 
